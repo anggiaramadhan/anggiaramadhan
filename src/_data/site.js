@@ -1,10 +1,10 @@
 module.exports = {
-  title: "Nulite starter for Eleventy",
-  shortTitle: "Nulite starter 💊",
+  title: "CGO Blog",
+  shortTitle: "CGO Blog",
   description:
-    "A beautiful and elegant blog theme starter project por Eleventy",
-  url: "https://example.com/",
+    "Blog mengenai apa saja. Teknologi, sains dan politik akan menjadi topik utama",
+  url: "https://cgoblog.com/",
   author: {
-    name: "Your Name Here",
+    name: "Anggia Ramadhan",
   },
 };
