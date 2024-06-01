@@ -5,7 +5,7 @@
 ![Sakuraco](https://res.cloudinary.com/dclmdlc6o/image/upload/f_auto,q_auto/tdh5jtdkvn0kycffuxwc)
 Initially, Sakuraco was built using [Webflow](https://webflow.com). But as traffic continued to increase and caused cost overruns and operational constraints,
 we migrated to [NextJS](https://nextjs.org/) and [Prismic](https://prismic.io/) as Headless CMS. 
-[WordPress][https://wordpress.com] serves all the blog content via API.
+[WordPress](https://wordpress.com) serves all the blog content via API.
 
 &nbsp;<br>
 ### Technology
@@ -64,3 +64,15 @@ Ruby on Rails, Go, Vue, React, MySQL, Elasticsearch, Datadog, AWS, Sentry, Kafka
 &nbsp;<br>
 ### Technology
 Go, Next, Gatsby, React, Postgres, Elasticsearch, GCP, Terraform
+
+
+&nbsp;<br>
+## Climate Watch Indonesia
+![CWI](https://res.cloudinary.com/dclmdlc6o/image/upload/f_auto,q_auto/gfcvwsryoel6frbunuk9)
+Climate Watch Indonesia is a web platform that monitors the Indonesian ecosystem's climate change and carbon indicators. It's built with Ruby on Rails, React, Three JS and simple Ruby Admin.
+
+
+&nbsp;<br>
+### Technology
+Ruby on Rails, Postgres, Admin Rails, ThreeJS, Leaflet
+
