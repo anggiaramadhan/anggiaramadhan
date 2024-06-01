@@ -1,10 +1,10 @@
 module.exports = {
-  title: "Programmer Kabupaten",
-  shortTitle: "Programmer Kabupaten",
+  title: "Doa Ibu",
+  shortTitle: "Anggia Riksa Ramadhan",
   description:
-    "Blog mengenai apa saja. Teknologi, sains dan politik akan menjadi topik utama",
-  url: "https://cgoblog.com/",
+    "Doa ibu merupakan personal blog mengenai teknologi dan apa saja",
+  url: "https://doaibu.me/",
   author: {
-    name: "Programmer Kabupaten",
+    name: "Anak Ibu",
   },
 };
