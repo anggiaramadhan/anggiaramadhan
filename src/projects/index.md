@@ -76,3 +76,13 @@ Climate Watch Indonesia is a web platform that monitors the Indonesian ecosystem
 ### Technology
 Ruby on Rails, Postgres, Admin Rails, ThreeJS, Leaflet
 
+
+&nbsp;<br>
+## Discover Hongkong
+![Discoverhongkong](https://console.cloudinary.com/pm/c-4aab6a7b88a18e06b4e5fe6904995b/media-explorer?assetId=9bfb1dc4fe02a76457000663e66cbc0d)
+Discover Hong Kong's website was delivered with the UI system design that was built with the Vue component and BEM methodology.
+
+
+&nbsp;<br>
+### Technology
+Vue, CSS, HTML, System Design
