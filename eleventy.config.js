@@ -12,13 +12,6 @@ module.exports = function (eleventyConfig) {
     lineNumbers: false,
   });
 
-  eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
-  eleventyConfig.addLiquidFilter(
-    "getNewestCollectionItemDate",
-    pluginRss.getNewestCollectionItemDate
-  );
-
   // Run Eleventy when these files change:
   // https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 

@@ -26,7 +26,8 @@ NextJS, Prismic, WebFlow, Wordpress, Zendesk, Algolia
 &nbsp;<br>
 &nbsp;<br>
 ## TokyoCatch
-![TokyoCatch](https://res.cloudinary.com/dclmdlc6o/image/upload/f_auto,q_auto/liyhs6jnz6rhg112bjtq) is an online crane game. Users can play from their phone or web application and get a price with free shipping.
+![TokyoCatch](https://res.cloudinary.com/dclmdlc6o/image/upload/f_auto,q_auto/liyhs6jnz6rhg112bjtq)
+[TokyoCatch](https://tokyocatch.com) is an online crane game. Users can play from their phone or web application and get a price with free shipping.
 
 
 &nbsp;<br>
@@ -62,7 +63,7 @@ Ruby on Rails, Go, Vue, React, MySQL, Elasticsearch, Datadog, AWS, Sentry, Kafka
 &nbsp;<br>
 ## Pintarnya
 ![Pintarnya](https://res.cloudinary.com/dclmdlc6o/image/upload/f_auto,q_auto/lgeiv0cvadod75qfjanm)
-[Pintarnya](https://pintarnya.com) is is a job portal that focuses on the blue-collar workers segment. They also offer B2B services like candidate assessment, talent hunting, etc.
+[Pintarnya](https://pintarnya.com) is a job portal that focuses on the blue-collar workers segment. They also offer B2B services like candidate assessment, talent hunting, etc.
 
 
 &nbsp;<br>
@@ -86,7 +87,7 @@ Ruby on Rails, Postgres, Admin Rails, ThreeJS, Leaflet
 &nbsp;<br>
 ## Discover Hongkong
 ![Discoverhongkong](https://res.cloudinary.com/dclmdlc6o/image/upload/f_auto,q_auto/lca70nsdoyjwoxxqurx3)
-Discover Hong Kong's website was delivered with the UI system design that was built with the Vue component and BEM methodology.
+[Discover Hong Kong's](https://www.discoverhongkong.com/eng/index.html) website was delivered with the UI system design that was built with the Vue component and BEM methodology.
 
 
 &nbsp;<br>
