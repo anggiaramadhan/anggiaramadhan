@@ -1,4 +1,3 @@
-const pluginRss = require("@11ty/eleventy-plugin-rss");
 const codeStyleHooks = require("eleventy-plugin-code-style-hooks");
 
 module.exports = function (eleventyConfig) {
